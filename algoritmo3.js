@@ -1,4 +1,4 @@
-// contar los carecteres de 'a' en el string
+// contar los caracteres de 'a' en el string
 
 function filtrarRepetidas (string) {
 
@@ -17,7 +17,7 @@ console.log(filtrarRepetidas("pasto"));
 console.log(filtrarRepetidas("bombilla"));
 
 
-// encontrar palabras que comiencen con la letra 'T'
+// encontrar palabras que comiencen con la letra 'T' en el siguiente Array
 
 const animales = ['Pantera','Tigre','Gato','Perro',
                     'Tiburon','Tortuga','Toro'];
